@@ -1,0 +1,22 @@
+API--- Application programming interface
+--
+is the way of communication btw 2 applications ,
+ where applications may differ in their platforms or in terms of technology.
+
+Types of API:
+1. Simple object access protocol (SOAP)
+2. REST (Representational state transfer)
+
+both are the web services.
+Web services-- need network (http)
+
+REST API
+----------
+
+HTTP-- Hyper text transfer protocol
+HTTPS-- Hyper text transfer protocol secured
+
+URI-- uniform resource identifier
+URL-- uniform resource locator
+URN-- uniform resource name
+
